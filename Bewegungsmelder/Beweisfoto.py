@@ -7,7 +7,7 @@ import os
  
 datapath = '/home/pi/PycharmProjects/Bewegungsmelder'
 
-print "BEWEGUNGSMELDER"
+print "~BEWEGUNGSMELDER~"
 print ""
  
 #Board Mode: Angabe der Pin-Nummer
