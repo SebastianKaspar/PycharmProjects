@@ -1,0 +1,209 @@
+ <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"> <html lang="de"> <head> <title>Lyxor ETF Brazil Ibovespa Kurs - WKN LYX0BE, ISIN FR0010408799 - ARIVA.DE</title> <link rel="stylesheet" type="text/css" href="/styles/ariva_old_min-492.css"> <link rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml" title="ARIVA.DE"> <meta http-equiv="content-type" content="text/html; charset=UTF-8" > <meta name="viewport" content="width=992"> <link rel="alternate" type="application/rss+xml" title="Lyxor ETF Brazil Ibovespa: Nachrichten - ARIVA.DE" href="/lyxor_etf_brazil_ibovespa-fonds/news/rss"> <link rel="alternate" type="application/rss+xml" title="Lyxor ETF Brazil Ibovespa: Forenbeitr&auml;ge - ARIVA.DE" href="/lyxor_etf_brazil_ibovespa-fonds/forum/rss"> <meta name="description" content="Alle Infos zum Lyxor ETF Brazil Ibovespa (WKN LYX0BE, ISIN FR0010408799): Aktueller Kurs, historische Performance, Meinungen und Bewertung."> <meta name="apple-itunes-app" content="app-id=620435353"> <meta name="robots" content="index, follow"> <link rel="canonical" href="/lyxor_etf_brazil_ibovespa-fonds"> <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.ariva.de/lyxor_etf_brazil_ibovespa-fonds?utp=1"> <meta name="revisit-after" content="6 months"> <script type="text/javascript" src="https://script.ioam.de/iam.js"></script> </head> <body id="ArivaDe"  > <div id="ARIVA"> <div id="BIGSIZE"> <div id="iqd_mainAd"> <div id="iqd_align_Ad"> <div id="iqd_topAd"> <div id="iqadtile1"> <noscript><a href="http://ad.de.doubleclick.net/N183/jump/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile1,fonds/etf/einzelwert;doc=einzelw;sz=728x90,800x250;dcopt=ist;tile=1;ord=1444572605?" rel="nofollow"><img src="http://ad.de.doubleclick.net/N183/ad/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile1,fonds/etf/einzelwert;doc=einzelw;sz=728x90,800x250;dcopt=ist;tile=1;ord=1444572605?" border="0" alt=""></a></noscript> </div> </div> <div id="iqd_rightAd"> <div id="iqadtile2"> <noscript><a href="http://ad.de.doubleclick.net/N183/jump/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile2,fonds/etf/einzelwert;doc=einzelw;sz=120x600,160x600,200x600;tile=2;ord=1444572605?" rel="nofollow"><img src="http://ad.de.doubleclick.net/N183/ad/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile2,fonds/etf/einzelwert;doc=einzelw;sz=120x600,160x600,200x600;tile=2;ord=1444572605?" border="0" alt=""></a></noscript> </div> </div> </div> </div> </div> <div id="WEBSEITE"> <div id="overDiv"></div> <div id="head"> <a  onclick="countClick('Logo', 'Logo', 1);" id="logo" href="/" title="B&ouml;rsenkurse &amp; Finanznachrichten - ARIVA.DE"> <img src="/i/logo.png" width="153" height="30" alt="B&ouml;rsenkurse &amp; Finanznachrichten - ARIVA.DE" border="0"> </a> <div id="login"> <div style="margin:8px; font-size:14px;"> <a onclick="countClick('Anmelden', 'Nutzereinstellung', 1, 'logging');" href="https://www.ariva.de/user/login?site=%2Flyxor_etf_brazil_ibovespa-fonds%3Futp%3D1">Anmelden</a> </div> </div> <div id="mini_quotes"> <table cellpadding="0" cellspacing="0" align="right" border="0" id="miniquotes"> <tr> <td class="miniquotes_name"> <a href="/dax-30" onclick="countClick('DAX', 'MiniQuotes', 1);">X-DAX</a> </td> <td class="miniquotes_value">
+			10.113
+		</td> <td class="miniquotes_change_l"> <span class="colwin">+0,07%</span> </td> <td class="miniquotes_name"> <a href="/dow-jones-industrial-average" onclick="countClick('DowJones', 'MiniQuotes', 1);">Dow Jones</a> </td> <td class="miniquotes_value">
+			17.084
+		</td> <td class="miniquotes_change_l"> <span class="colwin">+0,20%</span> </td> </tr> <tr> <td class="miniquotes_name"> <a href="/tecdax" onclick="countClick('TecDAX', 'MiniQuotes', 1);">L-TecDAX</a> </td> <td class="miniquotes_value">
+			1.764
+		</td> <td class="miniquotes_change_l"> <span class="colloss">-0,52%</span> </td> <td class="miniquotes_name"> <a href="/euro-dollar-kurs" onclick="countClick('Dollar', 'MiniQuotes', 1);">Dollarkurs</a> </td> <td class="miniquotes_value">
+			1,136
+		</td> <td class="miniquotes_change_l"> <span class="colwin">+0,68%</span> </td> </tr> </table> </div> </div> <div id="navandsearch"> <div id="navigation"> <ul class="menuDropdownNoJS"> <li id="maerkteMenu"><span ><a href="/aktien/">Aktien</a></span></li> <li>|</li> <li id="newsMenu"><span ><a href="/news/">News</a></span></li> <li>|</li> <li id="forumMenu"><span ><a href="/forum/community.m">Forum</a></span></li> <li>|</li> <li id="zertifikate_osMenu"><span ><a href="/zertifikate/">Zertifikate/OS</a></span></li> <li>|</li> <li id="devisenMenu"><span ><a href="/devisen/">Devisen</a></span></li> <li>|</li> <li id="rohstoffeMenu"><span ><a href="/rohstoffe/">Rohstoffe</a></span></li> <li>|</li> <li id="depotMenu"><span ><a href="/depot/">Depot</a></span></li> <li>|</li> <li id="internMenu"><span ><a href="/articles/">Mehr</a></span></li> </ul> </div> <div id="search"> <form action="/search/search.m" id="megasuche" method="get" onsubmit="return liveSearchSubmit()" > <input type="text" id="livesearch" name="searchname" value="" placeholder="Name, WKN, ISIN" tabindex="1" onkeydown="liveSearchKeyPress(event, this)" onkeyup="liveSearchStart(event, this)"> <input id="go" type="submit" value="Suche"> </form> </div> <div id="LSResult" class="LSResult"></div> </div> <div id="VIEWTRACKER"> <img src="/count.m?count=Profil__fonds__100116139__66159____1" alt="" width="1" height="1" id="countimage"> <!--
+ SZM VERSION="2.0" --> <script type="text/javascript">
+	var iam_data = {
+		"st" : "ariva",
+		"cp" : "fonds",
+		"sv" : "in",
+		"co" : ""
+	}
+	iom.c(iam_data,2);
+</script> <!--
+ /SZM --> </div> <div id="iqadtile3"  class=""> <noscript><a href="http://ad.de.doubleclick.net/N183/jump/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile3,fonds/etf/einzelwert;doc=einzelw;sz=760x250,760x30,940x250;tile=3;ord=1444572605?" rel="nofollow"><img src="http://ad.de.doubleclick.net/N183/ad/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile3,fonds/etf/einzelwert;doc=einzelw;sz=760x250,760x30,940x250;tile=3;ord=1444572605?" border="0" alt=""></a></noscript> </div> <div class="abstand14"></div> <div id="CONTENT" itemscope="itemscope" itemtype="http://schema.org/Product"> <div class="reiterzeile abstand"> <ul class="reiter"> <li class="active"><a href="/lyxor_etf_brazil_ibovespa-fonds">&Uuml;bersicht</a> <li class="inactive"><a href="/lyxor_etf_brazil_ibovespa-fonds/kurs">Kurse</a> <li class="inactive"><a href="/lyxor_etf_brazil_ibovespa-fonds/chart">Chart</a> <li class="inactive"><a href="/lyxor_etf_brazil_ibovespa-fonds/news">News</a> <li class="inactive"><a href="/lyxor_etf_brazil_ibovespa-fonds/forum">Forum</a> </ul> <div class="name"> <h1 class="big"> <span itemprop="name">Lyxor ETF Brazil Ibovespa</span> </h1> </div> <div class="clearfloat"></div> <div class="verlauf info"> <div  >WKN: LYX0BE </div> <div  >ISIN: FR0010408799 </div> <div>Typ: Fonds</div> <div class="noprint add">
+			Aufnehmen in <a href="/depot/private/add_multiple.m?ags=100116139" rel="nofollow">Watchlist/Depot</a> </div> <div class="clearfloat"></div> </div> </div> <div id="pageSnapshot"> <div class="contentLeft"> <div class="chartBox abstand"> <div class="reiterzeile abstand"> <table id="chartReiter" border="0" cellpadding="0" cellspacing="0"> <tr> <td id="reiter_month"><a href="/lyxor_etf_brazil_ibovespa-fonds/chart?t=month&amp;clean_payout=1&amp;currency=EUR&amp;utp=1&amp;boerse_id=8">1 Monat</a></td> <td class="gap" width="2"></td> <td id="reiter_quarter"><a href="/lyxor_etf_brazil_ibovespa-fonds/chart?t=quarter&amp;clean_payout=1&amp;currency=EUR&amp;utp=1&amp;boerse_id=8">3 Monate</a></td> <td class="gap" width="2"></td> <td class="aktiv" id="reiter_year"><a href="/lyxor_etf_brazil_ibovespa-fonds/chart?t=year&amp;clean_payout=1&amp;currency=EUR&amp;utp=1&amp;boerse_id=8">1 Jahr</a></td> <td class="gap" width="2"></td> <td id="reiter_3years"><a href="/lyxor_etf_brazil_ibovespa-fonds/chart?t=3years&amp;clean_payout=1&amp;currency=EUR&amp;utp=1&amp;boerse_id=8">3 Jahre</a></td> <td class="gap" width="2"></td> <td id="reiter_all"><a href="/lyxor_etf_brazil_ibovespa-fonds/chart?t=all&amp;clean_payout=1&amp;currency=EUR&amp;utp=1&amp;boerse_id=8">Gesamt</a></td> </tr> </table> </div> <div class="chartImage"> <a href="/lyxor_etf_brazil_ibovespa-fonds/chart?t=year&amp;boerse_id=8&amp;currency=EUR"> <img alt="Performance des Lyxor ETF Brazil Ibovespa (WKN LYX0BE, ISIN FR0010408799)" title="Performance des Lyxor ETF Brazil Ibovespa (WKN LYX0BE, ISIN FR0010408799)" width="375"
+				src="/chart/images/chart.png?secu=100116139&amp;size=M&amp;t=year&amp;volume=0&amp;boerse_id=8&amp;clean_payout=1&amp;currency=EUR" border="0" /> </a> </div> </div> <div id="iqadtile5"  class="abstand"> <noscript><a href="http://ad.de.doubleclick.net/N183/jump/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile5,fonds/etf/einzelwert;doc=einzelw;sz=300x100;tile=5;ord=1444572605?" rel="nofollow"><img src="http://ad.de.doubleclick.net/N183/ad/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile5,fonds/etf/einzelwert;doc=einzelw;sz=300x100;tile=5;ord=1444572605?" border="0" alt=""></a></noscript> </div> <div class="histPerformance abstand"> <div class="arheadgl" style="height:19px; width:100%" align="left"> <h2 class="arhead"  > 		Hist. Performance des ETF 		</h2> <div class="clearfloat"></div> </div> <table class="line"> <tr class="subtitle"> <td>Zeitraum</td> <td class="right">Max. Verlust</td> <td class="right">Verlustmonate</td> <td class="right">Sharpe</td> <td class="right">Performance</td> </tr> <tr> <td>1 Monat</td> <td class="right">-14,95%</td> <td class="right">-</td> <td class="right">0,16</td> <td class="right"><span class="colwin">+8,55%</span></td> </tr> <tr> <td>1 Jahr</td> <td class="right">-50,55%</td> <td class="right">66,67%</td> <td class="right">-1,03</td> <td class="right"><span class="colloss">-40,52%</span></td> </tr> <tr> <td>3 Jahre</td> <td class="right">-61,01%</td> <td class="right">63,89%</td> <td class="right">-1,61</td> <td class="right"><span class="colloss">-50,45%</span></td> </tr> <tr> <td>5 Jahre</td> <td class="right">-72,41%</td> <td class="right">58,33%</td> <td class="right">-2,07</td> <td class="right"><span class="colloss">-64,67%</span></td> </tr> </table> <div class="arbott">Tägliche Berechnung mittels des Rücknahmepreises in Euro</div> </div> <div class="boardBox abstand"> <div class="arheadgl" style="height:19px; width:100%" align="left"> <h2 class="arhead"  > <a href="/lyxor_etf_brazil_ibovespa-fonds/forum"> 		Diskussionen zum ETF 		</a> </h2> <a  href="/lyxor_etf_brazil_ibovespa-fonds/forum"  > <span class="arheadmorearrow">&raquo;</span> <span class="arheadmore">Mehr</span> </a> <div class="clearfloat"></div> </div> <table class="line"> <tr class="subtitle"> <td class="right wertung">Wertung</td> <td class="right postings">Antw.</td> <td>Thema</td> <td class="right smartdate">Zeit</td> </tr> <tr> <td class="right">&nbsp;<span class="sprite sprite-ft" height="10" width="11"></span></td> <td class="right">3</td> <td class="ellipsis"> <a href="/forum/Comeback-Laender-Mit-Verlierern-gewinnen-493568">
+					Comeback-Länder: Mit Verlierern gewinnen
+				</a> </td> <td class="right">11.01.14</td> </tr> </table> <div class="arbott newThread"> <a href="/forum/new_posting.m?secu=100116139" rel="nofollow">Neues Thema</a> <span style="font-size: 12px;">&nbsp;</span> </div> <div> <form name="forensuche" action="/forum/suche.m" method="get" style="margin:0px"> <input style="width:150px" type="text" name="search_all" value="Lyxor"> <input  type="submit" value="Forumsuche"> <input type="hidden" name="go" value="1"> </form> </div> </div> <div class="newsBox abstand"> <div class="arheadgl" style="height:19px; width:100%" align="left"> <h2 class="arhead"  > <a href="/lyxor_etf_brazil_ibovespa-fonds/news"> 		News zum ETF 		</a> </h2> <a  href="/lyxor_etf_brazil_ibovespa-fonds/news"  > <span class="arheadmorearrow">&raquo;</span> <span class="arheadmore">Mehr</span> </a> <div class="clearfloat"></div> </div> <table class="line"> <tr class="subtitle"> <td>Titel</td> <td class="right smartdate">Zeit</td> </tr> <tr> <td class="ellipsis"> <a class="showvisited"  href="/news/Brasilien-ETF-haengt-alle-ab-5171791">
+					Brasilien-&#8203;ETF h&auml;ngt alle ab</a> </td> <td class="right">29.09.14</td> </tr> <tr> <td class="ellipsis"> <a class="showvisited"  href="/news/SJB-MarktEcho-Brasilien-LYXOR-ETF-Brazil-IBOVESPA-3884909">
+					SJB MarktEcho. Brasilien. LYXOR ETF Brazil (IBOVESPA) </a> </td> <td class="right">04.11.11</td> </tr> <tr> <td class="ellipsis"> <a class="showvisited"  href="/news/ETF-Handel-russische-Blue-Chips-ueberzeugend-Deutsche-Boerse-AG-3670874">
+					ETF-&#8203;Handel russische Blue-&#8203;Chips &uuml;berzeugend - Deutsche B&ouml;rse AG</a> </td> <td class="right">08.03.11</td> </tr> <tr> <td class="ellipsis"> <a class="showvisited"  href="/news/ETF-Handel-Grundtendenz-positiv-Deutsche-Boerse-AG-3605198">
+					ETF-&#8203;Handel Grundtendenz positiv - Deutsche B&ouml;rse AG</a> </td> <td class="right">14.12.10</td> </tr> <tr> <td class="ellipsis"> <a class="showvisited"  href="/news/ETF-Handel-in-Vorbereitung-fuers-Jahresende-Deutsche-Boerse-AG-3583623">
+					ETF-&#8203;Handel in Vorbereitung f&uuml;rs Jahresende - Deutsche B&ouml;rse AG</a> </td> <td class="right">16.11.10</td> </tr> </table> </div> <div class="teaser_iqd_contend_platform abstand"> <div id="iq-artikelanker"></div> </div> </div> <div class="contentRight"> <div class="kursBox abstand"> <table class="line"> <tr style="line-height:38px"> <td style="text-align: center; font-size:25px"> <span itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer"> <span itemprop="price">10,465&nbsp;&euro;</span> </span> </td> <td style="color: #28B628; text-align: center;font-size:25px">+4,16%</td> <td style="color: #28B628; text-align: center;font-size:25px">+0,4181&nbsp;&euro;</td> </tr> </table> <div class="arbott" style="padding-right:3px"> 		Rücknahmepreis der Fondsgesellschaft, 		 07.10.15 		| <a href="/lyxor_etf_brazil_ibovespa-fonds/kurs">Mehr <span style="font-family: Tahoma,'Nimbus Sans L;">&raquo;</span></a> </div> <div class="buttonBox right" style="margin-top:8px; line-height:23px;"> <div class="button" style="margin-left:10px; width:auto; display:inline-block"> <a href="/depot/private/add_multiple.m?ags=100116139" rel="nofollow"> <img id="depot_list_button" src="/i/add.png" alt="Depot/Watchlist hinzufügen" class="add">Watchlist/Depot
+		</a> </div> <div class="button" style="display:inline-block; margin-left:10px; width:auto;"> <a href="" onclick="return toggleBrokerButtons(1);">
+			Kaufen/Verkaufen
+		</a> </div> <div id="broker_trading" class="left" isin="FR0010408799" wkn="LYX0BE"></div> </div> </div> <div id="iqadtile9"  class="abstand"> <noscript><a href="http://ad.de.doubleclick.net/N183/jump/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile9,fonds/etf/einzelwert;doc=einzelw;sz=300x30;tile=9;ord=1444572605?" rel="nofollow"><img src="http://ad.de.doubleclick.net/N183/ad/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile9,fonds/etf/einzelwert;doc=einzelw;sz=300x30;tile=9;ord=1444572605?" border="0" alt=""></a></noscript> </div> <div id="iqadtile8"  class="abstand"> <noscript><a href="http://ad.de.doubleclick.net/N183/jump/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile8,fonds/etf/einzelwert;doc=einzelw;sz=300x250,300x600,300x100;tile=8;ord=1444572605?" rel="nofollow"><img src="http://ad.de.doubleclick.net/N183/ad/iqdariva/fonds/etf/einzelwert;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile8,fonds/etf/einzelwert;doc=einzelw;sz=300x250,300x600,300x100;tile=8;ord=1444572605?" border="0" alt=""></a></noscript> </div> <div class="data abstand"> <div class="arheadgl" style="height:19px; width:100%" align="left"> <h2 class="arhead"  > 		Stammdaten des ETF 		</h2> <div class="clearfloat"></div> </div> <table class="line"> <colgroup> <col width="110"> <col> </colgroup> <tr> <td class="subtitle">KAG
+
+			</td> <td class="left"> <a href="/fonds/kags/fonds.m?kag_id=486&amp;secu=100116139" >LVM Kapitalanlage</a> </td> </tr> <tr> <td class="subtitle">Domizil
+
+			</td> <td class="left">Frankreich</td> </tr> <tr> <td class="subtitle">Ausschüttungsart
+
+			</td> <td class="left">thesaurierend</td> </tr> <tr> <td class="subtitle">Währung
+
+			</td> <td class="left">EUR</td> </tr> <tr> <td class="subtitle">Auflagedatum
+
+			</td> <td class="left">24.01.2007</td> </tr> </table> </div> <div class="marktdaten"> <div class="contentLeft"> <div class="data abstand"> <div class="arheadgl" style="height:19px; width:100%" align="left"> <h2 class="arhead"  > 		Geb&uuml;hren &amp; Kosten 		</h2> <div class="clearfloat"></div> </div> <table class="line"> <colgroup> <col width="110"> <col> </colgroup> <tr> <td class="subtitle">Management, p.a.
+
+			</td> <td class="right">0,65 %</td> </tr> </table> </div> </div> <div class="contentRight"> <div class="arheadgl" style="height:19px; width:100%" align="left"> <h2 class="arhead"  > <a href="/fonds/profil_ranking.m?secu=100116139"> 		FondsRank 		</a> </h2> <a  href="/fonds/profil_ranking.m?secu=100116139"  > <span class="arheadmorearrow">&raquo;</span> <span class="arheadmore">Mehr</span> </a> <div class="clearfloat"></div> </div> <table class="line" style="margin-bottom:15px"> <tr> <td class="subtitle">Kurzfristig</td> <td class="center"> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> </td> <td class="right armini">
+      81/175
+    </td> </tr> <tr> <td class="subtitle">Mittelfristig</td> <td class="center"> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> </td> <td class="right armini">
+      112/161
+    </td> </tr> <tr> <td class="subtitle">Langfristig</td> <td class="center"> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> </td> <td class="right armini">
+      112/128
+    </td> </tr> <tr> <td class="subtitle">Gesamt</td> <td style="text-align:center" colspan="2"> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> <img class="absmiddle" src="/forum/i/kst_o.png" alt="" /> </td> </tr> </table> </div> <div class="clearfloat"></div> </div> <div class="informationBox abstand"> <div class="arheadgl" style="height:19px; width:100%" align="left"> <h2 class="arhead"  > 		Anlageidee des ETF 		</h2> <div class="clearfloat"></div> </div> <div id="beschreibung_text" class="information" style="padding:0px 3px 1px 3px; color:#000000; font-size:12px; line-height:21px; border-bottom:1px solid #ECECEC;"> <b>Aktien > Standardwerte (Lateinamerika)</b><br/> Die Wertentwicklung des ETFs  orientiert sich an der Kursentwicklung des Basiswertes.   
+		
+
+	</div> </div> </div> <div class="clearfloat"></div> </div> </div> <div id="foot" class="noprint"> <div id="iqadtile16"  class="abstand"> <noscript><a href="http://ad.de.doubleclick.net/N183/jump/iqdariva/yield;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile16,yield;doc=einzelw;sz=729x91;tile=16;ord=1444572605?" rel="nofollow"><img src="http://ad.de.doubleclick.net/N183/ad/iqdariva/yield;kw=LYX0BE,FR0010408799,iqdariva,FT71,etf,iqadtile16,yield;doc=einzelw;sz=729x91;tile=16;ord=1444572605?" border="0" alt=""></a></noscript> </div> <div id="footer" class="abstand"> <div class="footer abstand"> <a href="/fehlermeldung/index.m?ag=100116139&amp;referrer=&amp;ssl=0&amp;url=%2Flyxor_etf_brazil_ibovespa-fonds%3Futp%3D1" 
+			target="fehlermeld" 
+			id="fehlermelden"
+		>Fehler melden</a>
+		- <a id="showshare" style="cursor:pointer">Seite teilen</a> <br> <div id="share" style="display:none; background-color:white; line-height:20px;"> <a id="share_facebook" style= "cursor:pointer">Facebook</a> |
+			<a id="share_twitter" style= "cursor:pointer">Twitter</a> |
+			<a id="share_google" style= "cursor:pointer">Google+</a> |
+			<a id="share_email" style= "cursor:pointer"> E-Mail</a> </div> </div> <div class="column quarter"> <div class="abstand"> <h3> <span class="sprite sprite-company"></span> 		ARIVA.DE 	</h3> <a href="/extras/app"> 		Apps
+
+	</a> <a href="/impressum"> 		Impressum
+
+	</a> <a href="/jobs/"> 		Jobs
+
+	</a> <a href="http://ag.ariva.de/werbung"> 		Werbung
+
+	</a> <a href="http://ag.ariva.de/asp"> 		Inhalte für Ihre Webseite
+
+	</a> </div> <div> <h3> <span class="sprite sprite-follow"></span> 		ARIVA.DE folgen 	</h3> <a href="http://www.facebook.com/ariva.de" target="_blank" rel="nofollow"> <span class="sprite  sprite-facebook"></span> 		Facebook
+
+	</a> <a href="http://twitter.com/ariva" target="_blank" rel="nofollow"> <span class="sprite  sprite-twitter"></span> 		Twitter
+
+	</a> <a href="https://plus.google.com/114847082215318522520" target="_blank" rel="nofollow"> <span class="sprite  sprite-google_plus"></span> 		Google+
+
+	</a> <a href="https://www.xing.com/companies/ariva.deag" target="_blank" rel="nofollow"> <span class="sprite  sprite-xing"></span> 		Xing
+
+	</a> <a href="/news/rss"> <span class="sprite  sprite-rss"></span> 		RSS-Feeds
+
+	</a> </div> </div> <div class="column quarter"> <div class="abstand"> <h3> <span class="sprite sprite-service"></span> 		Service 	</h3> <a href="/articles/hilfe.m"> 		Hilfe
+
+	</a> <a href="/news/redaktion"> 		Aus unserer Redaktion
+
+	</a> <a href="/extras/lexikon.m"> 		Börsen-Lexikon
+
+	</a> <a href="/waehrungsrechner"> 		Währungsrechner
+
+	</a> <a href="/online-broker-vergleich"> 		Online-Broker: Depot-Vergleich
+
+	</a> </div> <div> <h3> <span class="sprite sprite-community"></span> 		Community 	</h3> <a href="/forum/gesamt"> 		Börsen-Forum
+
+	</a> <a href="/club/"> 		ARIVA.DE Club
+
+	</a> <a href="/depot/boersenspiel.m"> 		Börsenspiel
+
+	</a> <a href="/depot/"> 		Musterdepot
+
+	</a> </div> </div> <div class="column quarter"> <div class="abstand"> <h3> <a href="/boersenkurse"> <span class="sprite sprite-quotes"></span> 		Börsenkurse 		</a> </h3> <a href="/aktien/"> 		Aktienkurse
+
+	</a> <a href="/dax-index/realtime-kurse"> 		Realtimekurse
+
+	</a> <a href="/dws_investa-fonds"> 		DWS Investa Fonds
+
+	</a> </div> <div> <h3> <span class="sprite sprite-currencies"></span> 		Devisenkurse 	</h3> <a href="/euro-dollar-kurs"> 		Dollarkurs
+
+	</a> <a href="/btc-eur-bitcoin-euro-kurs"> 		Bitcoin Kurs
+
+	</a> <a href=" /gbp-usd-britische_pfund-us-dollar-kurs"> 		Britische Pfund Kurs
+
+	</a> <a href="/euro-schweizer-franken-kurs"> 		Schweizer Franken (CHF) Kurs
+
+	</a> <a href="/eur-pln-euro-polnischer_zloty-kurs"> 		Zloty Kurs
+
+	</a> <a href="/usd-jpy-us-dollar-japanischer_yen-kurs"> 		Japanischer Yen Kurs
+
+	</a> </div> </div> <div class="column quarter last"> <div class="abstand"> <h3> <span class="sprite sprite-market"></span> 		Markt 	</h3> <a href="/dax-30"> 		DAX Werte
+
+	</a> <a href="/dow-jones-industrial-average"> 		Dow Jones
+
+	</a> <a href="/eurostoxx-50"> 		Euro Stoxx 50
+
+	</a> <a href="/goldpreis-gold-kurs"> 		Goldpreis / Goldkurs
+
+	</a> <a href="/oelpreis-brent_crude-kurs"> 		Ölpreis
+
+	</a> <a href="/wti_roh%C3%B6l_nymex-kurs"> 		Rohölpreis
+
+	</a> <a href="/silber-kurs"> 		Silber
+
+	</a> </div> <div class="copyright">
+	&copy; 2015 ARIVA.DE - Alle Angaben ohne Gew&auml;hr - Dt. B&ouml;rsen, Nasdaq, Nyse und DJ 15 Min. verz&ouml;gert (<a href="/extras/verzoegerungen.m">Mehr</a>) - <a href="http://www.iqm.de/medien/online/nutzungsbasierte_Onlinewerbung/" rel="nofollow" target="_blank">Nutzungsbasierte Onlinewerbung</a> </div> </div> <div class="clearfloat"></div> </div> <script type="text/javascript">
+						var vislayer = 'hidden';
+
+					</script> <script type="text/javascript">
+						onerror = stopError;
+						function stopError() {
+							return true;
+						}
+					</script> <script type="text/javascript">
+						var iqdSiteInfo;
+						if ( typeof(iq_adops_active) != 'undefined' && iq_adops_active == 1 ) {
+							iqdSiteInfo = [[980, 0, 0], [0, 0, 980], [0, 0, 980], ['center', 'fullBodyBg'], ['y', 'y', 'y']];
+						} else {
+							iqdSiteInfo = [[800, 0, -1], [0, 0, 800], [0, 0, 800], ['center', 'fullBodyBg'], ['y', 'y', 'y']];
+						}
+						var IQD_Zone = "fonds/etf/einzelwert";
+						var IQD_Keywords = "LYX0BE,FR0010408799,iqdariva,iqadtileX,FT71,etf";
+						var IQD_Doc = "einzelw";
+						var IQD_Debug = false;
+						var IQD_varPack = {
+							iqdSite: 'ariva',
+							iqdRessort: '',
+							ord: Math.random() * 10000000000000000,
+							iqdSiteInfo: iqdSiteInfo,
+							iqdCountSkyReg: parseInt(0),
+							iqdEnableSky: 'neutral'
+						};
+						var IQD_hasTile8 = true;
+						var IQD_hasTile4 = false;
+						var partnerPub = "3645277353156431:3441038039";
+					</script> <script type="text/javascript" src="http://dyn.emetriq.de/loader/97578/default.js"></script> <script src="/js/IQD_AdAudience_min-460.js" type="text/javascript"></script> <script src="/js/ariva_min-460.js" type="text/javascript"></script> <script type="text/javascript">
+						detect_pixel_ratio();
+					</script> </div> <script type="text/javascript">
+  					(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  					})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  					ga('create', 'UA-154038-1', 'ariva.de');
+					ga('set', 'anonymizeIp', true);
+
+					ga('set', 'dimension1', 'kein Mitglied');
+					ga('set', 'dimension2', 'Profil');
+					ga('set', 'dimension3', 'fonds');
+				</script> <script type="text/javascript">
+					ga('send', 'pageview');
+  				</script> <script type="text/javascript">
+	var d      = new Date();
+	var exdays = 1*24*60*60*1000;
+	d.setTime(d.getTime() + exdays);
+	var expires = "expires="+d.toUTCString();
+	document.cookie = "ABT_headerNeu" + "=jstest; " + expires + ";path=/;";
+</script> </div> <div id="iqadtile1_reload" style="display:none"> <script type="text/javascript">
+		IQD_GetAD('BS');
+	</script> </div> <div id="iqadtile2_reload" style="display:none"> <script type="text/javascript">
+		IQD_GetAD('SKY');
+	</script> </div> <div id="iqadtile3_reload" style="display:none"> <script type="text/javascript">
+		IQD_GetAD('BB');
+	</script> </div> <div id="iqadtile5_reload" style="display:none"> <script type="text/javascript">
+		IQD_GetAD('CBA');
+	</script> </div> <div id="iqadtile9_reload" style="display:none"> <script type="text/javascript">
+		IQD_GetAD('TEXT');
+	</script> </div> <div id="iqadtile8_reload" style="display:none"> <script type="text/javascript">
+		IQD_GetAD('CAD2');
+	</script> </div> <div id="iqadtile16_reload" style="display:none"> <script type="text/javascript">
+		IQD_GetAD('BSfoot');
+	</script> </div> </div> <script type="text/javascript">
+	(function() {
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.async = true;
+		s.src = document.location.protocol + '//cdn.iqcontentplatform.de/iq.js';
+		var sc = document.getElementsByTagName('script')[0];
+		sc.parentNode.insertBefore(s,sc);
+	})();
+</script> <script type="text/javascript">
+	!function(t,n,e){function a(t,n){var e=j(t);if(!e)return e;if(""!=n)for(var a=0;a<n.length;a++)"^"==n.charAt(a)&&(e=e.parentNode),"<"==n.charAt(a)&&(e=e.previousElementSibling),">"==n.charAt(a)&&(e=e.nextElementSibling),"y"==n.charAt(a)&&(e=e.firstChild);return e}function u(t){for(var n=0,e=0;t;)n+=t.offsetLeft+t.clientLeft,e+=t.offsetTop+t.clientTop,t=t.offsetParent;return{x:n,y:e}}function r(t,n){var e=0,a=0,r=u(n);return(t.pageX||t.pageY)&&(e=t.pageX,a=t.pageY),(t.clientX||t.clientY)&&(e=t.clientX+document.body.scrollLeft+document.documentElement.scrollLeft,a=t.clientY+document.body.scrollTop+document.documentElement.scrollTop),e-=r.x,a-=r.y,{x:e,y:a}}function o(t,n){t.addEventListener?t.addEventListener("click",n,!0):t.attachEvent&&t.attachEvent("onclick",function(){return n.call(t,window.event)})}function d(){if(t.uabpdl&&!t.uabInject){t.uabInject=!0,t.uabPc={};var n=h("style");n.type="text/css",v(n,'.HFziKypCZY {width: 760px; height: 100px; margin: 0 auto; text-align: left; position: relative; background-image: url("/i/bigsize_back.png"); background-position: center center; background-repeat: no-repeat;}#OLbqftL {cursor: pointer;width: 720px; height: 90px; margin-left: 16px;}.ZelOQmfVGQ {cursor: pointer;width: 720px; height: 90px; margin-left: 16px;}#WfLacpeXne {cursor: pointer;position: absolute; left: 785px; width: 160px; top: 0px;}@media print {.HFziKypCZY,#OLbqftL,.ZelOQmfVGQ,#WfLacpeXne{display:none;}} .uabpHid {display:none;}'),k(L,n);var e=[],u=a("#head","");if(u){var i=h("div");e.Wrapper=i,w(i,"HFziKypCZY "),m(u,i)}var d=e.Wrapper;d&&y(E("2fkduw2lpj2}e}ox"+t.uabpRnd+"bfkduw1msj",-3),function(){var n=d,e=h("div");g(e,"OLbqftL"),w(e,"lgTTdXE ");var a=this;o(a,function(n,e){if(!t.uabPc[95]){n.preventDefault(),n.stopPropagation();var e=r(n,this),a=[E("2fkduw2lpj29i[wz"+t.uabpRnd+"bfkduw1msj",-3),E("2fkduw2lpj2Or6:s"+t.uabpRnd+"bfkduw1msj",-3),E("2fkduw2lpj2:Pz75"+t.uabpRnd+"bfkduw1msj",-3)],u=a[Math.floor(3*e.x/this.width)];t.open(u,0==n.button&&n.ctrlKey?"_blank":"_self")}}),k(e,a),k(n,e)},null);var f=a("#iqadtile16","");f&&y(E("2fkduw2lpj2]Vm];"+t.uabpRnd+"bfkduw1msj",-3),function(){var n=f,e=h("div");g(e,"XZCDyLnXaQ"),w(e,"ZelOQmfVGQ ");var a=this;o(a,function(n,e){if(!t.uabPc[96]){n.preventDefault(),n.stopPropagation();var e=r(n,this),a=[E("2fkduw2lpj24V]EV"+t.uabpRnd+"bfkduw1msj",-3),E("2fkduw2lpj2EDHK4"+t.uabpRnd+"bfkduw1msj",-3),E("2fkduw2lpj2hE|:9"+t.uabpRnd+"bfkduw1msj",-3)],u=a[Math.floor(3*e.x/this.width)];t.open(u,0==n.button&&n.ctrlKey?"_blank":"_self")}}),k(e,a),k(n,e)},null);var p=e.Wrapper;p&&y(E("2fkduw2lpj24z<wD"+t.uabpRnd+"bfkduw1msj",-3),function(){var n=p,e=h("div");g(e,"WfLacpeXne"),w(e,"QDleAmVx ");var a=this;o(a,function(n,e){if(!t.uabPc[97]){n.preventDefault(),n.stopPropagation();var e=r(n,this),a=[E("2fkduw2lpj2zjh\\Z"+t.uabpRnd+"bfkduw1msj",-3),E("2fkduw2lpj2Hd\\kn"+t.uabpRnd+"bfkduw1msj",-3),E("2fkduw2lpj2DV5YM"+t.uabpRnd+"bfkduw1msj",-3)],u=a[Math.floor(3*e.y/this.height)];t.open(u,0==n.button&&n.ctrlKey?"_blank":"_self")}}),k(e,a),k(n,e)},null)}}function f(){if(t.uabTrack)return!1;t.uabTrack=!0,d();var n=function(){!x(this)};y(E("2fkduw2lpj2QrP]d"+t.uabpRnd+"bfkduw1msj",-3),n,n)}function p(){t.uabpd3++,t.uabpd3==t.uabpd1.length&&t.uabpd2.length==t.uabpd3&&(t.uabpij=!0,f())}function l(){if(!t.uabDetect){t.uabDetect=!0,t.uabpd1=[],t.uabpd2=[],t.uabpd3=0;var n=function(){if(!x(this)){var n=function(n){var e=x(this);e&&t.uabpd2.push(this),p()},e=function(){y(E("2fkduw2lpj2dgberpe2ZfiGo"+t.uabpRnd+"bfkduw1sqj",-3),n,n)};t.uabpd1.push(e);for(var a=0;a<t.uabpd1.length;a++)t.uabpd1[a]()}};y(E("2fkduw2lpj2Tk[OM"+t.uabpRnd+"bfkduw1msj",-3),n,n)}}function c(){t.uabpdl=!0,t.uabpij&&d()}function b(){n.addEventListener?n.addEventListener("DOMContentLoaded",c,!1):n.attachEvent&&n.attachEvent("onreadystatechange",function(){"complete"===n.readyState&&c()}),t.addEventListener?t.addEventListener("load",c,!1):t.attachEvent&&t.attachEvent("onload",c);var e=setInterval(function(){if(R=j("body"),null!=R){if(t.uabBody)return;t.uabBody=!0,clearInterval(e),t.uabpRnd=s(),l()}},10)}function s(){for(var t="0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",n=e.max(8,1+e.floor(8*e.random())),a="";a.length<n;)a+=t.charAt(e.floor(e.random()*t.length));return E(a,3)}function h(t){return n.createElement(t)}function v(t,n){t.innerHTML=n}function k(t,n){t.appendChild(n)}function m(t,n){t.parentElement.insertBefore(n,t)}function w(t,n){t.className=n}function g(t,n){t.id=n}function j(t){return n.querySelector(t)}function y(t,n,e){var a=h("IMG");a.onload=n,a.onerror=e,a.src=t}function x(t){return 2!=t.height}function E(t,n){var e="";for(i=0;i<t.length;i++)e+=String.fromCharCode(t.charCodeAt(i)+n);return e.replace("\\\\","\\\\\\\\")}t.UABPdd=p;var L=j("head"),R=null;b()}(window,document,Math); /* 40c7dede51f4c3844d2b3b766fcf6662 */
+</script> <script type="text/javascript" src="http://c.t4ft.de/c/ftg_iq.min.js"></script> <script type="text/javascript">
+			IQD_finish();
+		</script> </body> </html> 
