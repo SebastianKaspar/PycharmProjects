@@ -23,9 +23,7 @@ print "Downloading current stocks..."
 for key in sorted(shares):
     url = urllib2.urlopen(shares[key]["url"])
     with open("/var/tmp"+key+".txt", 'w') as f:
-        linenumber=0    
         for line in url:
-            linenumber +=1
             if line.find("itemprop="+"\""+"price")>=0:
                 try:
                     start = str(line).index("itemprop="+"\""+"price")+17
@@ -53,18 +51,9 @@ for key in sorted(shares):
                         start = str(line).index("Einfacher Hebel</td> <td class")+38
                         end = str(line).index(" </td> </tr> <tr> <td class=")-1
                         hebel = round(float(line[start:end].replace(",",".")),2)
-                        pushMessageString+=", ["+str(hebel)
+                        pushMessageString+=", ["+str(hebel)+"]"
                     except:
                         print "Error reading Hebel"
-                if line.find("Einfacher Hebel</td")>=0:
-                    try:
-                        start = str(line).index("Einfacher Hebel</td> <td class")+38
-                        end = str(line).index(" </td> </tr> <tr> <td class=")-1
-                        knockout = round(float(line[start:end].replace(",",".")),2)
-                        pushMessageString+=", "+str(knockout)+"]"
-                    except:
-                        print "Error reading Knock-Out"
- 
             f.write(line)
     pushMessageString+="\n"
 print pushMessageString
