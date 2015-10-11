@@ -22,7 +22,7 @@ shares = {"FranklinMena": "http://www.ariva.de/franklin_mena_fund_a(acc)_eur-fon
 
 for key in sorted(shares):
     url = urllib2.urlopen(shares[key])
-    with open("/home/pi/PycharmProjects/Aktienkurse/Daten/"+key+".txt", 'w') as f:
+    with open("/home/pi/PycharmProjects/Aktienkurse/Daten/"+"FranklinMena"+".txt", 'w') as f:
         i=0    
         for line in url:
             if line.find("itemprop="+"\""+"price")>=0:
