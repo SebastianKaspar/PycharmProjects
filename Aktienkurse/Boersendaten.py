@@ -26,9 +26,15 @@ mainpath = get_path()
 with open(os.path.join(mainpath, "myShares.txt")) as jsondict:
     shares = json.load(jsondict)
 
+
 print "Downloading current stocks..."
 for key in sorted(shares):
     url = urllib2.urlopen(shares[key]["url"])
+    letters = len(key)
+    points2add = ""
+    for i in range(15-letters):
+        points2add += "."
+
     with open(os.path.join("/var/tmp", key + ".txt"), 'w') as f:
         for line in url:
             if line.find("itemprop=" + "\"" + "price") >= 0:
@@ -38,7 +44,10 @@ for key in sorted(shares):
                         end = str(line).index("&nbsp;&euro;<")
                     else:
                         end = str(line).index("</span")
-                    aktuellerKurs = round(float(line[start:end].replace(",", ".")), 2)
+                    aktuellerKurs = round(float(line[start:end].replace(",", ".")), 4)
+                    points2add2 = ""
+                    for i in range(9-len(str(aktuellerKurs))):
+                        points2add2 += "."
                     change = round((aktuellerKurs - shares[key]["Kaufkurs"]) * shares[key]["Anteile"], 2)
                     if change < 0:
                         pm = ""
@@ -46,9 +55,9 @@ for key in sorted(shares):
                         pm = "+"
                     percentChange = np.abs((aktuellerKurs - shares[key]["Kaufkurs"]) / shares[key]["Kaufkurs"])
                     if 0.15 < percentChange:
-                        message = "> " + str(key) + ": " + str(aktuellerKurs) + ", " + str(pm) + str(change)
+                        message = ">" + str(key) + ": " + str(points2add) + str(aktuellerKurs) + ", " + str(points2add2) + str(pm) + str(change)
                     else:
-                        message = "  " + str(key) + ": " + str(aktuellerKurs) + ", " + str(pm) + str(change)
+                        message = "_" + str(key) + ": " + str(points2add) + str(aktuellerKurs) + ", " + str(points2add2) + str(pm) + str(change)
                     pushMessageString += str(message)
                 except:
                     print "Price not found! Check script."
