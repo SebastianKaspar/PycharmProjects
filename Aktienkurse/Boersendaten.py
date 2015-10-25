@@ -4,6 +4,7 @@ Created on Sat Oct 10 15:48:59 2015
 @author: Sebastian Kaspar
 """
 
+#Import...
 import urllib2
 import sys
 import json
