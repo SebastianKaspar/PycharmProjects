@@ -1,0 +1,9 @@
+import os
+os.system("sudo /home/pi/PycharmProjects/433Utils/RPi_utils/RFSniffer > test.txt  ")
+f = open("test.txt","r")
+readf = f.read()
+for line in readf:
+    print line,
+#close file
+if f.closed == "False":
+    f.close()
